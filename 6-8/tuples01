@@ -1,0 +1,6 @@
+t1 = (1)
+print(type(t1))
+
+t2 = ('applications', 'presentation', 'session', 1, 2)
+print(t2[3])
+print(t2[-3])

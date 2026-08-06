@@ -1,0 +1,6 @@
+s='networking '
+print(s*4)
+a='lans'
+b='vlans'
+print(a +' ' +b)
+print(s+a+' '+b)
