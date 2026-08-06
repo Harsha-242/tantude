@@ -1,0 +1,9 @@
+a = [2] * 5
+b = [0] * 7
+
+print(a)
+print(b)
+
+c = [1, 5, 7, "datalink"]
+print(c[0])   
+print(c)
