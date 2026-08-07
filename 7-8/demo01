@@ -1,0 +1,5 @@
+s=["app","box","kiij","lol","laugh"]
+print(s)
+r=[4,2,6,44,2]
+r[2]=99
+print(r)

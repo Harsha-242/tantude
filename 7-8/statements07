@@ -1,0 +1,14 @@
+age = 70
+
+if age <= 12:
+    print("Child.")
+elif age <= 19:
+    print("Teenager.")
+elif age <= 35:
+    print("Young adult.")
+elif age <= 60:
+    print("working.")
+elif age <= 80:
+    print("alive")
+else:
+    print("death.")

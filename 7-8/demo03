@@ -1,0 +1,9 @@
+'''tup=("nat","lan","vlan","solve","discuss")
+print(tup(w))'''
+w=()
+print(w)
+q = ('rrr', 'what')
+print(q)
+r=("sjb",30,"shdbuj",{"ksk","jksnjkn",33},"uew")
+print(r[0])
+print(r[3])

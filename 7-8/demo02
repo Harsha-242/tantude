@@ -1,0 +1,11 @@
+s=["harsha","santhos","lava"]
+s.append("kgf")
+print(s)
+r=[34,44,33,22,11,93]
+print(r)
+r.append(646)
+print(r)
+r.remove(44)
+print(r)
+s.remove("harsha")
+print(s)
