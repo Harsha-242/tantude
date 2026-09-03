@@ -1,0 +1,9 @@
+car={
+    "brand":"ford",
+    "model":"mustang",
+    "year":1964
+}
+car["year"]=2023
+print(car["year"])
+car["colour"]="red"
+print(car)
